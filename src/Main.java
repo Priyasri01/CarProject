@@ -3,6 +3,9 @@ public class Main {
 
       CarFeature XLR = new CarFeature();
         System.out.println("lauch the car");
-
+        XLR.color="red";
+        XLR.doors="5";
+        XLR.engine=32323;
+        XLR.model="a5";
     }
 }
